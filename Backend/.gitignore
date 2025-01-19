@@ -32,3 +32,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+Backend/check_logs.lua
+Backend/src/main/java/com/mysql/
+
